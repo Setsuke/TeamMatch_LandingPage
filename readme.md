@@ -1,1 +1,1 @@
-"GIT Test"
+"GIT Testing"
