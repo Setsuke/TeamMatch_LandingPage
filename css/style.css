@@ -594,15 +594,6 @@ body {
   height: 81.510417vw; /* 1565px/1920 */
   left: 7.239583vw; /* 139px/1920 */
 }
-.landingpageweb .tournament {
-  display: block;
-  position: absolute;
-  background-color: transparent;
-  width: 92.760417vw; /* 1781px/1920 */
-  height: 81.510417vw; /* 1565px/1920 */
-  left: 7.239583vw; /* 139px/1920 */
-}
-
 .landingpageweb .topsection .bggraphicmask {
   display: block;
   position: absolute;
@@ -1741,6 +1732,310 @@ body {
   top: 0
 }
 
+.landingpageweb .subscriptionsection {
+  display: block;
+  position: absolute;
+  background-color: transparent;
+  width: 100vw; /* 1920px/1920 */
+  height: 48.830729vw; /* 937.55px/1920 */
+  left: 0;
+  top: 158.354688vw; /* 2007.45px/1920 */
+}
+
+.landingpageweb .subscriptionsection .bgmision {
+  display: block;
+  position: absolute;
+  background-color: transparent;
+  width: 100vw; /* 1920px/1920 */
+  height: 48.830729vw; /* 937.55px/1920 */
+  left: 0;
+  top: 0
+}
+
+.landingpageweb .subscriptionsection .bgmision .path233 {
+  position: absolute;
+  fill: rgba(32, 32, 32, 1);
+  -webkit-filter: drop-shadow(0 20px 40px rgba(0, 0, 0, .4117647058823529));
+  filter: drop-shadow(0 20px 40px rgba(0, 0, 0, .4117647058823529));
+  width: 99.947917vw; /* 1919px/1920 */
+  height: 48.802083vw; /* 937px/1920 */
+  left: 0.052083vw; /* 1px/1920 */
+  top: 0.028646vw; /* 0.55px/1920 */
+}
+
+.landingpageweb .subscriptionsection .bgmision .lines45fc0253 {
+  display: block;
+  position: absolute;
+  opacity: .25;
+  cursor: default;
+  background-color: transparent;
+  width: 84.947917vw; /* 1631px/1920 */
+  height: 48.830729vw; /* 937.55px/1920 */
+  left: 7.265625vw; /* 139.5px/1920 */
+  top: 0
+}
+
+.landingpageweb .subscriptionsection .bgmision .lines45fc0253 .line16b25e1180 {
+  position: absolute;
+  stroke: rgba(112, 112, 112, 1);
+  stroke-width: 0.052083vw; /* 1px/1920 */
+  width: 0.052083vw; /* 1px/1920 */
+  height: 48.830729vw; /* 937.55px/1920 */
+  left: -0.026042vw; /* -0.5px/1920 */
+  top: 0
+}
+
+.landingpageweb .subscriptionsection .bgmision .lines45fc0253 .line1785ff75b0 {
+  position: absolute;
+  stroke: rgba(112, 112, 112, 1);
+  stroke-width: 0.052083vw; /* 1px/1920 */
+  width: 1px/1920;
+  height: 48.830729vw; /* 937.55px/1920 */
+  left: 9.765625vw; /* 187.5px/1920 */
+  top: 0
+}
+
+.landingpageweb .subscriptionsection .bgmision .lines45fc0253 .line18298a0330 {
+  position: absolute;
+  stroke: rgba(112, 112, 112, 1);
+  stroke-width: 0.052083vw; /* 1px/1920 */
+  width: 0.052083vw; /* 1px/1920 */
+  height: 48.828125vw; /* 937.5px/1920 */
+  left: 75.130208vw; /* 1442.5px/1920 */
+  top: 0.002604vw; /* 0.05px/1920 */
+}
+
+.landingpageweb .subscriptionsection .bgmision .lines45fc0253 .line194777ab7b {
+  position: absolute;
+  stroke: rgba(112, 112, 112, 1);
+  stroke-width: 0.052083vw; /* 1px/1920 */
+  width: 0.052083vw; /* 1px/1920 */
+  height: 48.802083vw; /* 937px/1920 */
+  left: 37.838542vw; /* 726.5px/1920 */
+  top: 0.028646vw; /* 0.55px/1920 */
+}
+
+.landingpageweb .subscriptionsection .bgmision .lines45fc0253 .line2028bdcd3d {
+  position: absolute;
+  stroke: rgba(112, 112, 112, 1);
+  stroke-width: 0.052083vw; /* 1px/1920 */
+  width: 0.052083vw; /* 1px/1920 */
+  height: 48.828125vw; /* 937.5px/1920 */
+  left: 84.921875vw; /* 1630.5px/1920 */
+  top: 0.002604vw; /* 0.05px/1920 */
+}
+
+.landingpageweb .subscriptionsection .bgmision .lines45fc0253 .line2199968adf {
+  position: absolute;
+  stroke: rgba(112, 112, 112, 1);
+  stroke-width: 0.052083vw; /* 1px/1920 */
+  width: 0.052083vw; /* 1px/1920 */
+  height: 48.802083vw; /* 937px/1920 */
+  left: 47.630208vw; /* 914.5px/1920 */
+  top: 0.028646vw; /* 0.55px/1920 */
+}
+
+.landingpageweb .subscriptionsection .bgmision .topmision {
+  display: block;
+  position: absolute;
+  background-color: transparent;
+  width: 100vw; /* 1920px/1920 */
+  height: 3.489583vw; /* 67px/1920 */
+  left: 0;
+  top: 0.028646vw; /* 0.55px/1920 */
+}
+
+.landingpageweb .subscriptionsection .bgmision .topmision .maskGroup7f39ec310 {
+  display: block;
+  position: absolute;
+  background-image: url("../img/maskGroup7f39ec310.webp");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  opacity: .2;
+  cursor: default;
+  background-color: transparent;
+  width: 54.895833vw; /* 1054px/1920 */
+  height: 3.489583vw; /* 67px/1920 */
+  left: 0;
+  top: 0
+}
+
+.landingpageweb .subscriptionsection .bgmision .topmision .rectangle7020d534b3e {
+  position: absolute;
+  opacity: .2;
+  cursor: default;
+  background-color: rgba(242, 242, 242, 1);
+  border-color: rgba(112, 112, 112, 1);
+  border-width: 0.052083vw; /* 1px/1920 */
+  width: 45.052083vw; /* 865px/1920 */
+  height: 3.489583vw; /* 67px/1920 */
+  left: 54.947917vw; /* 1055px/1920 */
+  top: 0
+}
+
+.landingpageweb .subscriptionsection .mision8240744c {
+  display: block;
+  position: absolute;
+  background-color: transparent;
+  width: 27.760417vw; /* 533px/1920 */
+  height: 30.677083vw; /* 589px/1920 */
+  left: 17.03125vw; /* 327px/1920 */
+  top: 7.528646vw; /* 144.55px/1920 */
+}
+
+.landingpageweb .subscriptionsection .mision8240744c .somos {
+  position: absolute;
+  background-color: rgba(255, 255, 255, 0);
+  text-align: left;
+  line-height: 2.34375vw; /* 45px/1920 */
+  letter-spacing: 0.044271vw; /* 0.85px/1920 */
+  color: rgba(242, 242, 242, 1);
+  -webkit-text-stroke: 1px transparent;
+  font-size: 1.440833vw; /* 34px/1920 */
+  font-weight: 500;
+  font-style: normal;
+  width: 27.760417vw; /* 533px/1920 */
+  height: 15.364583vw; /* 295px/1920 */
+  left: 0;
+  top: 15.208333vw; /* 292px/1920 */
+}
+
+.landingpageweb .subscriptionsection .mision8240744c .nuestramision {
+  position: absolute;
+  background-color: rgba(255, 255, 255, 0);
+  text-align: left;
+  line-height: 4.166667vw; /* 80px/1920 */
+  letter-spacing: 0.060937vw; /* 1.17px/1920 */
+  color: rgba(242, 242, 242, 1);
+  -webkit-text-stroke: 1px transparent;
+  font-size: 3.6625vw; /* 78px/1920 */
+  font-weight: 600;
+  font-style: normal;
+  white-space: pre;
+  width: 15vw; /* 288px/1920 */
+  height: 9.21875vw; /* 177px/1920 */
+  left: 0;
+  top: 4.401042vw; /* 84.5px/1920 */
+}
+
+.landingpageweb .subscriptionsection .mision8240744c .objetivoPrimario {
+  position: absolute;
+  background-color: rgba(255, 255, 255, 0);
+  text-align: left;
+  line-height: 4.791667vw; /* 92px/1920 */
+  letter-spacing: 0.032813vw; /* 0.63px/1920 */
+  color: rgb(117, 223, 255);
+  -webkit-text-stroke: unset;
+  font-size: 1.172083vw; /* 25px/1920 */
+  font-weight: 600;
+  font-style: normal;
+  width: 14.375vw; /* 276px/1920 */
+  height: 1.600833vw; /* 34px/1920 */
+  left: 0;
+  top: -1.588542vw; /* -30.5px/1920 */
+}
+
+.landingpageweb .subscriptionsection .mision8240744c .precio1 {
+  position: absolute;
+  background-color: rgba(255, 255, 255, 0);
+  text-align: left;
+  line-height: 4.166667vw; /* 80px/1920 */
+  letter-spacing: 0.060937vw; /* 1.17px/1920 */
+  color: rgba(242, 242, 242, 1);
+  text-decoration: underline;
+  -webkit-text-stroke: 1px transparent;
+  font-size: 6.6625vw; /* 78px/1920 */
+  font-weight: 600;
+  font-style: normal;
+  white-space: pre;
+  width: 15vw; /* 288px/1920 */
+  height: 9.21875vw; /* 177px/1920 */
+  left: 13vw;
+  top: 30.401042vw; /* 84.5px/1920 */
+}
+
+.landingpageweb .subscriptionsection .mision8240744c2 {
+  display: block;
+  position: absolute;
+  background-color: transparent;
+  width: 27.760417vw; /* 533px/1920 */
+  height: 30.677083vw; /* 589px/1920 */
+  left: 54.90125vw; /* 327px/1920 */
+  top: 7.528646vw; /* 144.55px/1920 */
+}
+
+.landingpageweb .subscriptionsection .mision8240744c2 .somos {
+  position: absolute;
+  background-color: rgba(255, 255, 255, 0);
+  text-align: left;
+  line-height: 2.34375vw; /* 45px/1920 */
+  letter-spacing: 0.044271vw; /* 0.85px/1920 */
+  color: rgba(242, 242, 242, 1);
+  -webkit-text-stroke: 1px transparent;
+  font-size: 1.440833vw; /* 34px/1920 */
+  font-weight: 500;
+  font-style: normal;
+  width: 27.760417vw; /* 533px/1920 */
+  height: 15.364583vw; /* 295px/1920 */
+  left: 0;
+  top: 15.208333vw; /* 292px/1920 */
+}
+
+.landingpageweb .subscriptionsection .mision8240744c2 .nuestramision {
+  position: absolute;
+  background-color: rgba(255, 255, 255, 0);
+  text-align: left;
+  line-height: 4.166667vw; /* 80px/1920 */
+  letter-spacing: 0.060937vw; /* 1.17px/1920 */
+  color: rgba(242, 242, 242, 1);
+  -webkit-text-stroke: 1px transparent;
+  font-size: 3.6625vw; /* 78px/1920 */
+  font-weight: 600;
+  font-style: normal;
+  white-space: pre;
+  width: 15vw; /* 288px/1920 */
+  height: 9.21875vw; /* 177px/1920 */
+  left: 0;
+  top: 4.401042vw; /* 84.5px/1920 */
+}
+
+.landingpageweb .subscriptionsection .mision8240744c2 .objetivoPrimario {
+  position: absolute;
+  background-color: rgba(255, 255, 255, 0);
+  text-align: left;
+  line-height: 4.791667vw; /* 92px/1920 */
+  letter-spacing: 0.032813vw; /* 0.63px/1920 */
+  color: rgb(117, 255, 163);
+  -webkit-text-stroke: unset;
+  font-size: 1.172083vw; /* 25px/1920 */
+  font-weight: 600;
+  font-style: normal;
+  width: 14.375vw; /* 276px/1920 */
+  height: 1.600833vw; /* 34px/1920 */
+  left: 0;
+  top: -1.588542vw; /* -30.5px/1920 */
+}
+
+.landingpageweb .subscriptionsection .mision8240744c2 .precio2 {
+  position: absolute;
+  background-color: rgba(255, 255, 255, 0);
+  text-align: left;
+  line-height: 4.166667vw; /* 80px/1920 */
+  letter-spacing: 0.060937vw; /* 1.17px/1920 */
+  color: rgba(242, 242, 242, 1);
+  -webkit-text-stroke: 1px transparent;
+  text-decoration: underline;
+  font-size: 6.6625vw; /* 78px/1920 */
+  font-weight: 600;
+  font-style: normal;
+  white-space: pre;
+  width: 15vw; /* 288px/1920 */
+  height: 9.21875vw; /* 177px/1920 */
+  left: 12vw;
+  top: 30.401042vw; /* 84.5px/1920 */
+}
+
 .landingpageweb .visionsection {
   display: block;
   position: absolute;
@@ -1748,7 +2043,7 @@ body {
   width: 100vw; /* 1920px/1920 */
   height: 48.854167vw; /* 938px/1920 */
   left: 0;
-  top: 157.916667vw; /* 3032px/1920 */
+  top: 217.916667vw; /* 3032px/1920 */
 }
 
 .landingpageweb .visionsection .bgvision {
